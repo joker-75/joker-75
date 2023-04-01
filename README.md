@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#--!>
-##i am a ✨ special ✨ github user because i make (good websites) on Wordpress and Github Pages.
+# --!>
+## i am a ✨ special ✨ github user because i make (good websites) on Wordpress and Github Pages.
 
-#Here are some things i made:
+# Here are some things i made:
 
 # 🔭 I’m currently working on some websites
 # 🌱 I’m currently learning other programing languages.
